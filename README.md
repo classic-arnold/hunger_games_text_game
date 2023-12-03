@@ -1,3 +1,3 @@
 # Hunger Games Text Game
 
-Run the iPython notebook
+Run the iPython notebook for more information.
